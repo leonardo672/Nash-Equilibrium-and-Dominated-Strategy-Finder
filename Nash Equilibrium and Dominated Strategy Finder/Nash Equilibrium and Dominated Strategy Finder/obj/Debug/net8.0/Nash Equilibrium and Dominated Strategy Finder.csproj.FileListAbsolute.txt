@@ -1,0 +1,14 @@
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\bin\Debug\net8.0\Nash Equilibrium and Dominated Strategy Finder.exe
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\bin\Debug\net8.0\Nash Equilibrium and Dominated Strategy Finder.deps.json
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\bin\Debug\net8.0\Nash Equilibrium and Dominated Strategy Finder.runtimeconfig.json
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\bin\Debug\net8.0\Nash Equilibrium and Dominated Strategy Finder.dll
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\bin\Debug\net8.0\Nash Equilibrium and Dominated Strategy Finder.pdb
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\obj\Debug\net8.0\Nash Equilibrium and Dominated Strategy Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\obj\Debug\net8.0\Nash Equilibrium and Dominated Strategy Finder.AssemblyInfoInputs.cache
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\obj\Debug\net8.0\Nash Equilibrium and Dominated Strategy Finder.AssemblyInfo.cs
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\obj\Debug\net8.0\Nash Equilibrium and Dominated Strategy Finder.csproj.CoreCompileInputs.cache
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\obj\Debug\net8.0\Nash Equilibrium and Dominated Strategy Finder.dll
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\obj\Debug\net8.0\refint\Nash Equilibrium and Dominated Strategy Finder.dll
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\obj\Debug\net8.0\Nash Equilibrium and Dominated Strategy Finder.pdb
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\obj\Debug\net8.0\Nash Equilibrium and Dominated Strategy Finder.genruntimeconfig.cache
+C:\Users\L\Documents\Nash Equilibrium and Dominated Strategy Finder\Nash Equilibrium and Dominated Strategy Finder\obj\Debug\net8.0\ref\Nash Equilibrium and Dominated Strategy Finder.dll
